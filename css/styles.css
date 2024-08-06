@@ -738,8 +738,8 @@ body:not(.user-is-tabbing) :focus {
     --tw-border-opacity: 1;
     --tw-bg-opacity: 1;
     --tw-text-opacity: 1;
-    background-color: rgba(0,175,154,var(--tw-bg-opacity));
-    border-color: rgba(0,175,154,var(--tw-border-opacity));
+    background-color: rgba(114,171,186,var(--tw-bg-opacity));
+    border-color: rgba(114,171,186,var(--tw-border-opacity));
     color: rgba(255,255,255,var(--tw-text-opacity));
     text-decoration: none
 }
@@ -758,8 +758,8 @@ body:not(.user-is-tabbing) :focus {
     --tw-border-opacity: 1;
     --tw-bg-opacity: 1;
     --tw-text-opacity: 1;
-    background-color: rgba(0,175,154,var(--tw-bg-opacity));
-    border-color: rgba(0,175,154,var(--tw-border-opacity));
+    background-color: rgba(114,171,186,var(--tw-bg-opacity));
+    border-color: rgba(114,171,186,var(--tw-border-opacity));
     color: rgba(255,255,255,var(--tw-text-opacity));
     text-decoration: none
 }
@@ -777,8 +777,8 @@ body:not(.user-is-tabbing) :focus {
     --tw-border-opacity: 1;
     --tw-bg-opacity: 1;
     --tw-text-opacity: 1;
-    background-color: rgba(0,175,154,var(--tw-bg-opacity));
-    border-color: rgba(0,175,154,var(--tw-border-opacity));
+    background-color: rgba(114,171,186,var(--tw-bg-opacity));
+    border-color: rgba(114,171,186,var(--tw-border-opacity));
     color: rgba(255,255,255,var(--tw-text-opacity));
     text-decoration: none
 }
@@ -826,7 +826,7 @@ body:not(.user-is-tabbing) :focus {
     --tw-bg-opacity: 1;
     --tw-text-opacity: 1;
     background-color: rgba(255,255,255,var(--tw-bg-opacity));
-    color: rgba(0,175,154,var(--tw-text-opacity));
+    color: rgba(114,171,186,var(--tw-text-opacity));
     text-decoration: none
 }
 
@@ -1559,8 +1559,8 @@ html[lang=en] .fui-field:not(.fui-field-required)>div>label:after {
     --tw-border-opacity: 1;
     --tw-bg-opacity: 1;
     --tw-text-opacity: 1;
-    background-color: rgba(0,175,154,var(--tw-bg-opacity));
-    border-color: rgba(0,175,154,var(--tw-border-opacity));
+    background-color: rgba(114,171,186,var(--tw-bg-opacity));
+    border-color: rgba(114,171,186,var(--tw-border-opacity));
     color: rgba(255,255,255,var(--tw-text-opacity));
     text-decoration: none
 }
@@ -1703,7 +1703,7 @@ html[lang=en] .fui-field:not(.fui-field-required)>div>label:after {
 
 .glide__arrow:hover {
     --tw-text-opacity: 1;
-    color: rgba(0,175,154,var(--tw-text-opacity))
+    color: rgba(114,171,186,var(--tw-text-opacity))
 }
 
 .glide__arrow--left {
@@ -1901,11 +1901,11 @@ html[lang=en] .fui-field:not(.fui-field-required)>div>label:after {
     --tw-border-opacity: 1;
     --tw-text-opacity: 1;
     align-items: center;
-    border-color: rgba(0,175,154,var(--tw-border-opacity));
+    border-color: rgba(114,171,186,var(--tw-border-opacity));
     border-radius: 9999px;
     border-width: 3px;
     box-sizing: border-box;
-    color: rgba(0,175,154,var(--tw-text-opacity));
+    color: rgba(114,171,186,var(--tw-text-opacity));
     display: flex;
     font-family: Hongkong Medium,serif;
     font-size: .75rem;
@@ -2410,7 +2410,7 @@ html[lang=en] .fui-field:not(.fui-field-required)>div>label:after {
 
 .leaflet-container a.leaflet-popup-close-button:hover {
     --tw-text-opacity: 1;
-    color: rgba(0,175,154,var(--tw-text-opacity))
+    color: rgba(114,171,186,var(--tw-text-opacity))
 }
 
 .leaflet-popup-scrolled {
@@ -2550,7 +2550,7 @@ html[lang=en] .fui-field:not(.fui-field-required)>div>label:after {
 }
 
 .link:hover {
-    color: rgba(0,175,154,var(--tw-text-opacity));
+    color: rgba(114,171,186,var(--tw-text-opacity));
     text-decoration: none
 }
 
@@ -2593,7 +2593,7 @@ html[lang=en] .fui-field:not(.fui-field-required)>div>label:after {
 
 .link--ext:hover:after {
     --tw-text-opacity: 1;
-    color: rgba(0,175,154,var(--tw-text-opacity));
+    color: rgba(114,171,186,var(--tw-text-opacity));
     transform: translateX(25%)
 }
 
@@ -2651,7 +2651,7 @@ html[lang=en] .fui-field:not(.fui-field-required)>div>label:after {
 
 .link--icon:hover,.link--icon:hover:before {
     --tw-text-opacity: 1;
-    color: rgba(0,175,154,var(--tw-text-opacity))
+    color: rgba(114,171,186,var(--tw-text-opacity))
 }
 
 @supports ((-webkit-mask-image: url()) or (mask-image:url())) {
@@ -3176,8 +3176,8 @@ html[lang=en] .fui-field:not(.fui-field-required)>div>label:after {
     --tw-border-opacity: 1;
     --tw-bg-opacity: 1;
     --tw-text-opacity: 1;
-    background-color: rgba(0,175,154,var(--tw-bg-opacity));
-    border-color: rgba(0,175,154,var(--tw-border-opacity));
+    background-color: rgba(114,171,186,var(--tw-bg-opacity));
+    border-color: rgba(114,171,186,var(--tw-border-opacity));
     color: rgba(255,255,255,var(--tw-text-opacity))
 }
 
@@ -3202,8 +3202,8 @@ html[lang=en] .fui-field:not(.fui-field-required)>div>label:after {
     --tw-border-opacity: 1;
     --tw-bg-opacity: 1;
     --tw-text-opacity: 1;
-    background-color: rgba(0,175,154,var(--tw-bg-opacity));
-    border-color: rgba(0,175,154,var(--tw-border-opacity));
+    background-color: rgba(114,171,186,var(--tw-bg-opacity));
+    border-color: rgba(114,171,186,var(--tw-border-opacity));
     color: rgba(255,255,255,var(--tw-text-opacity))
 }
 
@@ -3228,7 +3228,7 @@ html[lang=en] .fui-field:not(.fui-field-required)>div>label:after {
 
 .section--dark-content .link:hover,.section--dark-content .link:hover:after,.section--dark-content .link:hover:before {
     --tw-text-opacity: 1;
-    color: rgba(0,175,154,var(--tw-text-opacity))
+    color: rgba(114,171,186,var(--tw-text-opacity))
 }
 
 .section--card-content .link,.section--card-content .link:after,.section--card-content .link:before,.section--card-content .link:hover,.section--card-content .link:hover:after,.section--card-content .link:hover:before {
@@ -4139,7 +4139,7 @@ blockquote:before {
 
 .bg-primary {
     --tw-bg-opacity: 1;
-    background-color: rgba(0,205,180,var(--tw-bg-opacity))
+    background-color: rgba(114,171,186,var(--tw-bg-opacity))
 }
 
 .bg-light {
@@ -4214,8 +4214,8 @@ blockquote:before {
 }
 
 .py-0 {
-    padding-bottom: 0;
-    padding-top: 0
+    padding-bottom: 0.5rem;
+    padding-top: 0.5rem
 }
 
 .py-8 {
@@ -4292,7 +4292,8 @@ blockquote:before {
 }
 
 .pb-8 {
-    padding-bottom: 2rem
+    padding-bottom: 1rem;
+    padding-top: 1rem;
 }
 
 .pb-6 {
@@ -4389,7 +4390,7 @@ blockquote:before {
 
 .text-primary {
     --tw-text-opacity: 1;
-    color: rgba(0,205,180,var(--tw-text-opacity))
+    color: rgba(113,123,138,var(--tw-text-opacity))
 }
 
 .text-black {
@@ -4628,7 +4629,7 @@ blockquote:before {
 
 .hover\:border-primary-hover:hover {
     --tw-border-opacity: 1;
-    border-color: rgba(0,175,154,var(--tw-border-opacity))
+    border-color: rgba(114,171,186,var(--tw-border-opacity))
 }
 
 .hover\:bg-primary:hover {
@@ -4638,12 +4639,12 @@ blockquote:before {
 
 .hover\:bg-primary-hover:hover {
     --tw-bg-opacity: 1;
-    background-color: rgba(0,175,154,var(--tw-bg-opacity))
+    background-color: rgba(114,171,186,var(--tw-bg-opacity))
 }
 
 .hover\:text-primary-hover:hover {
     --tw-text-opacity: 1;
-    color: rgba(0,175,154,var(--tw-text-opacity))
+    color: rgba(114,171,186,var(--tw-text-opacity))
 }
 
 .hover\:text-white:hover {
@@ -4686,7 +4687,7 @@ blockquote:before {
 
 .group:hover .group-hover\:text-primary-hover {
     --tw-text-opacity: 1;
-    color: rgba(0,175,154,var(--tw-text-opacity))
+    color: rgba(114,171,186,var(--tw-text-opacity))
 }
 
 .group:hover .group-hover\:opacity-0 {
